@@ -1,11 +1,10 @@
 import React from "react";
-import minhaImagem from "/workspaces/clone-tabnews/MENU.png";
 
 function Home() {
   return (
     <div style={{ textAlign: "center", paddingTop: "50px" }}>
       <img
-        src={minhaImagem}
+        src="/workspaces/clone-tabnews/MENU.png"
         alt="Imagem de construção"
         style={{ width: "200px" }}
       />
