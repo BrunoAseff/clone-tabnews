@@ -4,7 +4,7 @@ function Home() {
   return (
     <div style={{ textAlign: "center", paddingTop: "50px" }}>
       <img
-        src="MENU.png"
+        src="workspaces/clone-tabnews/MENU.jpg"
         alt="Imagem de construção"
         style={{ width: "200px" }}
       />
