@@ -1,7 +1,11 @@
+import React from "react";
+
 function Home() {
   return (
     <div>
-      <h1>Alterando a frase</h1>
+      <img src="MENU.png" alt="Imagem de construção" />
+      <h1>Em construção</h1>
+      <p>menuscore - 2024</p>
     </div>
   );
 }
