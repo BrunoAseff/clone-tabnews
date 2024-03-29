@@ -1,5 +1,5 @@
 import React from "react";
-import img1 from "/workspaces/clone-tabnews/src/images/MENU.png";
+import img1 from "./images/MENU.png";
 
 function Home() {
   return (
