@@ -1,11 +1,14 @@
 import React from "react";
-import img1 from "./images/MENU.png";
 
 function Home() {
   return (
     <div style={{ textAlign: "center", paddingTop: "50px" }}>
-      <img src={img1} alt="Imagem de construção" />
-      <h1 style={{ marginTop: "20px" }}>Em construção...</h1>
+      <img
+        style={{ maxWidth: "300px" }}
+        src="/images/MENU.png"
+        alt="Imagem de construção"
+      />
+      <h1 style={{ marginTop: "15px" }}>Em construção...</h1>
       <p style={{ marginTop: "20px", marginBottom: "50px" }}>
         Menuscore - 2024
       </p>
