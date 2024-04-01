@@ -9,6 +9,7 @@ function Home() {
         alt="Imagem de construção"
       />
       <h1 style={{ marginTop: "15px" }}>Em construção...</h1>
+      <h1 style={{ marginTop: "15px" }}>Atendimento excelente</h1>
       <img
         style={{ maxWidth: "300px" }}
         src="/images/pedreiro.jpg"
