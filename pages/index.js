@@ -9,7 +9,6 @@ function Home() {
         alt="Imagem de construção"
       />
       <h1 style={{ marginTop: "15px" }}>Em construção...</h1>
-      <img style={{ maxWidth: "300px" }} alt="Imagem de construção" />
       <p style={{ marginTop: "20px", marginBottom: "50px" }}>
         Menuscore - 2024
       </p>
