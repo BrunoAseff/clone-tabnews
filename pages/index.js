@@ -1,10 +1,12 @@
+import Image from "next/image";
 import React from "react";
 
 function Home() {
   return (
     <div style={{ textAlign: "center", paddingTop: "50px" }}>
-      <img
-        style={{ maxWidth: "300px" }}
+      <Image
+        width={300}
+        height={300}
         src="/images/MENU.png"
         alt="Imagem de construção"
       />
